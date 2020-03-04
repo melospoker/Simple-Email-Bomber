@@ -28,5 +28,5 @@ amount to send: recommended 100 - 500
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
 
-## Video
-[![Thumbnail](http://i3.ytimg.com/vi/qAnRmA0zWq4/maxresdefault.jpg)](https://www.youtube.com/watch?v=VuCOE8PwJDs)
+## Video ( Still Editing )
+[![Thumbnail](https://gif.drweabo.com/img/flameascii.gif)](https://www.youtube.com/DrWeabo)
