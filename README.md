@@ -28,5 +28,5 @@ amount to send: recommended 100 - 500
 ## Note
 You need to enable less secure apps on Gmail and Yahoo
 
-## Video ( Still Editing )
+## Video
 [![Thumbnail](https://cdn.discordapp.com/attachments/683008868913381376/684821935292547080/DrWeabo_-_Simple_Email_Bomber.jpg)](https://youtu.be/Gv6Z4VRlxtk)
